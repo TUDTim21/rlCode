@@ -610,10 +610,7 @@ l = 8  # Number of layers
 
 # print(len(actions))
 
-# baselinePath = "frontend\\turtlerl-web\src\dataTemp\\baselinePath.json"
 # stateActionPairs = [{'state': s, 'action': a} for s, a in zip(states,actions)]
-#     # # with open('frontend\\turtlerl-web\src\dataTemp\\turtleRunData.json', 'w') as file:
-#     # #     json.dump(states, file, cls=NpEncoder)
 # with open(baselinePath, 'w') as file:
 #     json.dump(stateActionPairs, file, cls=NpEncoder)
 
